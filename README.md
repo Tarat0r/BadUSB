@@ -1,2 +1,2 @@
 # BadUSB
-A BadUSB script that sends all passwords over SSH to a remote server
+A BadUSB script that sends all Wi-Fi passwords over SSH to a remote server
